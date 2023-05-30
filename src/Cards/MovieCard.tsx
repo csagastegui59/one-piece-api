@@ -1,4 +1,3 @@
-// import { useNavigate } from "react-router-dom";
 import { MovieData } from "../Interfaces/MoviesInterface";
 import { Link } from "react-router-dom";
 interface MovieProps {
@@ -6,11 +5,6 @@ interface MovieProps {
 }
 
 export default function MovieCard({ movie }: MovieProps) {
-  // const navigate = useNavigate();
-
-  // const handleOnClick = () => {
-  //   navigate(`/movies/${movie.mal_id}`);
-  // };
 
   return (
     <Link to={`/movies/${movie.mal_id}`}>
