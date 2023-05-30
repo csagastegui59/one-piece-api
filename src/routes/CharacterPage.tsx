@@ -11,6 +11,7 @@ function replaceNewlinesWithBreaks(text: string) {
     </React.Fragment>
   ));
 }
+
 export default function CharacterPage() {
   const { characterId } = useParams()
   const [character, setCharacter] = useState<SingleCharacter>()
