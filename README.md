@@ -55,3 +55,8 @@ $ npm run dev
 # Error
 - In case no data is found, you will see an error message
 ![Error](src/assets/images/movies-not-found.png)
+
+# Online Version
+- you can see an online version of the page on: [https://christian-onepiece.netlify.app/](https://christian-onepiece.netlify.app/)
+## Stay in touch
+- Developer - [Christian Sagástegui](https://github.com/csagastegui59)
