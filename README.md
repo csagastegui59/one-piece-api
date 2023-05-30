@@ -8,8 +8,8 @@
 You can download node from the official website by open the link: https://nodejs.org/es/download/
 
 ## Installation
-
-Run the following command:
+1. Clone repository
+2. Run the following command:
 ```bash
 $ npm install
 ```
