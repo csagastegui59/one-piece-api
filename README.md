@@ -16,6 +16,11 @@ $ npm install
 In case you need to modify server port you can do it by modifying server options on *vite.config.ts* file
 
 ## Running the app
+1. Run the following command:
 ```bash
 $ npm run dev
 ```
+2. Open [http://localhost:3000](http://localhost:3000) or the chosen port to view it in your browser.
+
+# Showing data
+![Home](src/assets/images/Index.png)
